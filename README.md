@@ -10,7 +10,7 @@
 
 # 📁Projeto - aprendendo a escrever um README
 
-![image info](img/tela.png)
+![image info](_img/capa.png)
 
 ## 📝Descrição
 
